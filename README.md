@@ -11,7 +11,15 @@ This repository contains projects and assignments for the Computer Graphics and 
 
 ## Repository Structure
 
-This repository will contain coursework, projects, and assignments related to computer graphics and visualization.
+```
+CompGraphics/
+├── Projects/          # Major course projects
+├── Assignments/       # Weekly assignments and exercises
+├── Resources/         # Reference materials and notes
+└── README.md         # This file
+```
+
+This repository contains coursework, projects, and assignments related to computer graphics and visualization.
 
 ## About
 
